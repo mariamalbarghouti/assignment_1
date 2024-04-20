@@ -33,4 +33,4 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(ReplyActivity.Key, message);
         startActivity(intent);
     }
-    }
+}

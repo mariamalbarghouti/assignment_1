@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="feedback_form_string">Feedback Form</string>
+    <string name="coursename_text">Course Name</string>
+    <string name="coursename_hint">Enter Course name</string>
+    <string name="question_text">Did you find Course Easy?</string>
+    <string name="button_text">Submit your Feedback</string>
+    <string name="radio_yes">Yes</string>
+    <string name="radio_no">No</string>
+    <!--  For the next page AppBar title  -->
+    <string name="reply">Reply</string>
+</resources>
